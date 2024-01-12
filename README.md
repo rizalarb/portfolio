@@ -6,9 +6,9 @@ This portfolio serves as a comprehensive collection of my academic and self-dire
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Application of Multimodel Deep Learning in Detecting Hoax News on the Turnbackhoax.id Page Using the CNN Algorithm](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/Lordrizal/Application-Multimodel-Deep-Learning-Detecting-Hoax-News-Turnbackhoax.id-CNN/blob/master/Fake%20News%20Image.jpg"> **[Application of Multimodel Deep Learning in Detecting Hoax News on the Turnbackhoax.id Page Using the CNN Algorithm](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+The rise of hoax news and false information which is widely spread with the aim of misleading the public. The Indonesian Anti Defamation Society (Mafindo), an independent community established, focuses on providing education about hoax news. However, the process of verifying news is currently mostly done manually, so it is not effective enough to deal with the widespread number of hoax news. Therefore, a research effort was made to build a machine learning model for the automatic classification of hoax news. Machine learning with deep learning, convolutional neural network (CNN), has shown promising results in classifying hoax news. CNN has been used to process text and image input to improve classification performance.
 
 #
 
