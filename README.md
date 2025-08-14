@@ -43,7 +43,7 @@
 ### 📈 Statistical Modeling — SEM Simulator Framework
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/rizalarb/SEM-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/main/sem_visualization.png" width="300px" style="border-radius:8px;" alt="SEM Model Visualization">
+  <img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/mathematics-10-01379-g001-550.jpg" width="300px" style="border-radius:8px;" alt="SEM Model Visualization">
 </p>
 
 **PLS-SEM (Partial Least Squares Structural Equation Modeling) | Synthetic Data | Statistical Visualization**  
