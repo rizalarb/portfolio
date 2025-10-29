@@ -31,9 +31,9 @@ Automated summary generation and streamlined weekly review.
 
 <table>
 <tr>
-<td align="center"><img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/mathematics-10-01379-g001-550.jpg" width="260"/><br><sub>Balance Sheet Dashboard</sub></td>
-<td align="center"><img src="https://github.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/blob/master/Japfa%20Logo.png" width="260"/><br><sub>Profit & Loss Overview</sub></td>
-<td align="center"><img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/mathematics-10-01379-g001-550.jpg" width="260"/><br><sub>Cashflow Control</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CF_SUMMARY.png" width="260"/><br><sub>Cash Flow Summary</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CASH%20IN.png" width="260"/><br><sub>Cash In Dashboard</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CASH-OUT.png" width="260"/><br><sub>Cash Out Dashboard</sub></td>
 </tr>
 </table>
 
