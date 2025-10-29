@@ -12,11 +12,10 @@ Here you’ll find a curated selection of data projects, dashboards, and analyse
 
 1. [Finance Monitoring & Control Dashboard – PT Wira Cipta Perkasa (2025)](#finance-monitoring--control-dashboard--pt-wira-cipta-perkasa-2025)  
 2. [Balance Sheet and Profit-Loss Dashboard – PT Wira Cipta Perkasa (2025)](#balance-sheet-and-profit-loss-dashboard--pt-wira-cipta-perkasa-2025)  
-3. [Operational Vehicle Cost Dashboard – PT Japfa Comfeed Indonesia (2024)](#operational-vehicle-cost-dashboard--pt-japfa-comfeed-indonesia-2024)  
-4. [Procurement EOQ Analysis – PT Japfa Comfeed Indonesia (2024)](#procurement-eoq-analysis--pt-japfa-comfeed-indonesia-2024)  
-5. [Multimodal Deep Learning for Hoax Detection – Final Project (2024)](#multimodal-deep-learning-for-hoax-detection--final-project-2024)  
-6. [Rock–Paper–Scissors Image Classification – Dicoding (2022)](#rockpaper--scissors-image-classification--dicoding-2022)  
-7. [Coming Soon Projects](#coming-soon-projects)
+3. [Internship Projects – PT Japfa Comfeed Indonesia (2024)](#internship-projects--pt-japfa-comfeed-indonesia-2024)    
+4. [Multimodal Deep Learning for Hoax Detection – Final Project (2024)](#multimodal-deep-learning-for-hoax-detection--final-project-2024)  
+5. [Rock–Paper–Scissors Image Classification – Dicoding (2022)](#rockpaper--scissors-image-classification--dicoding-2022)  
+6. [Coming Soon Projects](#coming-soon-projects)
 
 </details>
 
@@ -64,31 +63,31 @@ Developed dashboards to provide a unified view of financial health, allowing rea
 
 ---
 
-## Operational Vehicle Cost Dashboard – PT Japfa Comfeed Indonesia (2024)
+## Internship Projects – PT Japfa Comfeed Indonesia (2024)
 
-Designed an interactive dashboard to automate vehicle operational cost reporting across 12 units in the Sulawesi region.
+Developed analytical and visual tools to support **cost control**, **procurement optimization**, and **product communication** for multiple departments in the Sulawesi region.  
 
-**Key Achievements:**
-- Built dynamic dashboards in Excel integrated with Power Query.  
-- Enabled automatic data refresh for cost and distance tracking.  
-- Improved decision-making through trend visualization.
+[![View Repository](https://img.shields.io/badge/View-All_Projects-blue)](https://github.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit)
 
-**Tools:** `Excel`, `Power Query`, `Data Visualization`
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/master/Dasboard%20BOK%20PTJCI%20Region%20Sulawesi.png" width="260"/><br><sub>Operational Cost Dashboard</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/master/Paper%20Economic%20Order%20Kuantity%20Sampo%20di%20PT%20Japfa%20Comfeed.png" width="260"/><br><sub>EOQ Analysis Report</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/master/Breeding%20Products%20Poster.jpg" width="260"/><br><sub>Product Infographic</sub></td>
+</tr>
+</table>
 
-[Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
+**Role / Tools:** Data Analyst Intern — `Excel`, `Adobe Photoshop`  
+**Impact:** Enhanced cost visibility, optimized procurement planning, and improved product communication.
 
----
+<details open>
+<summary>Read more</summary>
 
-## Procurement EOQ Analysis – PT Japfa Comfeed Indonesia (2024)
+- **Operational Cost Dashboard:** Consolidated 12-unit vehicle expense data, automated KPIs (cost/km, fuel variance).  
+- **EOQ Analysis:** Modeled optimal order quantities and identified cost-saving potentials for procurement.  
+- **Product Infographics:** Visualized complex technical data into clear external marketing materials.
 
-Conducted EOQ-based procurement optimization for the Poultry Breeding Department.
-
-**Key Achievements:**
-- Applied the EOQ model to determine optimal order quantities.  
-- Compared EOQ with the previous procurement method to highlight budget efficiency.  
-- Presented results through a structured analytical dashboard.
-
-**Tools:** `Excel`, `Statistical Modelling`, `Visualization`
+</details>
 
 [Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
 
@@ -138,11 +137,11 @@ A computer vision project for recognizing hand gestures using CNN architecture.
 
 **Languages & Libraries:** Python, R, Pandas, NumPy, scikit-learn, TensorFlow, Keras  
 **Databases & Query:** SQL (MySQL / PostgreSQL / T-SQL), ETL, Data Warehousing Concepts  
-**BI & Reporting:** Power BI, Tableau, Excel (Pivot Table, VBA), Dashboarding  
+**Dashboard & Reporting:** Tableau, Excel (Pivot Table, VBA), Dashboarding  
 **Statistics & Tools:** Hypothesis Testing, A/B Testing, Time Series, Econometrics, SPSS, Minitab  
 **Dev & Productivity:** Jupyter, Git, Basic Docker  
 
-**Soft Skills:** Attention to Detail, Problem Solving, Stress Management, Teamwork, Documentation, Communication  
+**Soft Skills:** Attention to Detail, Problem Solving, Teamwork, Documentation, Communication  
 
 **Keywords for ATS:** Data Analyst, Data Scientist, SQL, Python, Power BI, Dashboard, ETL, Machine Learning, TensorFlow, VBA, Financial Reporting, Forecasting, Data Visualization, KPI
 
