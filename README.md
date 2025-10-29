@@ -37,14 +37,14 @@ Automated summary generation and streamlined weekly review.
 </tr>
 </table>
 
-**Role / Tools:** Automation & Reporting Analyst — `Excel (VBA)`, `Power Query`, `Power BI`  
+**Role / Tools:** Automation & Reporting Analyst — `Excel`  
 **Impact:** Simplified cross-department financial monitoring; improved visibility and accuracy.
 
 <details open>
 <summary>Read more</summary>
 
 - Integrated AR, AP, TAX, and Budget datasets.  
-- Implemented automated aggregation scripts (VBA).  
+- Implemented automated aggregation.  
 - Designed layout for daily-to-monthly variance visualization.
 
 </details>
