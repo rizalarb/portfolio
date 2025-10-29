@@ -27,7 +27,7 @@ Here you’ll find a curated selection of data projects, dashboards, and analyse
 Created comprehensive finance dashboards (AR/AP/CF/Budget) to automate performance monitoring for the FAT department.  
 Automated summary generation and streamlined weekly review.
 
-[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](<!-- ADD_DASHBOARD_LINK -->)
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](https://github.com/rizalarb/Finance-Monitoring-Control-Dashboard)
 
 <table>
 <tr>
