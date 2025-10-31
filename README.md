@@ -71,8 +71,8 @@ Developed analytical and visual tools to support **cost control**, **procurement
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/master/Dasboard%20BOK%20PTJCI%20Region%20Sulawesi.png" width="260"/><br><sub>Operational Cost Dashboard</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/master/Paper%20Economic%20Order%20Kuantity%20Sampo%20di%20PT%20Japfa%20Comfeed.png" width="260"/><br><sub>EOQ Analysis Report</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/blob/master/Dashboard%20Operational%20Vehicle%20Costs.png" width="260"/><br><sub>Operational Cost Dashboard</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/blob/master/Economic%20Order%20Quantity%20(EOQ)%20Analysis%20for%20Poultry%20Breeding%20Procurement.png" width="260"/><br><sub>EOQ Analysis Report</sub></td>
 <td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/master/Breeding%20Products%20Poster.jpg" width="260"/><br><sub>Product Infographic</sub></td>
 </tr>
 </table>
