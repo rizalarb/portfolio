@@ -93,20 +93,34 @@ Developed analytical and visual tools to support **cost control**, **procurement
 
 ---
 
-## Multimodal Deep Learning for Hoax Detection – Final Project (2024)
+## PLS-SEM (Partial Least Squares Structural Equation Modeling) – Synthetic SEM Generator (2025)
 
-Implemented a multimodal neural network combining text and image data for detecting hoax news.
+Developed a **dynamic PLS-SEM model simulator** for automating the generation, visualization, and validation of structural equation models — designed to support **researchers and analysts** in testing causal relationships through **controlled parameter experiments**.
+
+[![View Repository](https://img.shields.io/badge/View-Project-blue)](https://github.com/rizalarb/PLS-SEM-Model-Simulator)
+
+<table>
+<tr>
+<td align="center"><img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Ilustration.jpg" width="260"/><br><sub>Model Overview & Simulation Workflow</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Inner%20Model%20Auto-Diagram.png" width="260"/><br><sub>Inner Model Path Coefficients (β)</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization/blob/master/Heatmap.png" width="260"/><br><sub>Correlation Heatmap (Descriptive Analysis)</sub></td>
+</tr>
+</table>
 
 **Highlights:**
-- Preprocessed text using Word2Vec and images using CNN.  
-- Built a fusion model for multimodal feature learning.  
-- Achieved high F1-score performance on validation dataset.
+- Designed a **Colab-based system** to generate **synthetic SEM data** with full parameter control (constructs, noise, and Likert scaling).  
+- Implemented **automated computation of outer model validity** (Outer Loadings, AVE, Reliability, HTMT, Fornell-Larcker).  
+- Developed **inner model testing** using regression-based path coefficients and **bootstrapping t-value analysis**.  
+- Enabled **dynamic PlantUML diagram generation** for both measurement and structural models.  
+- Integrated **visual descriptive analytics**, including **correlation heatmaps** and **construct summary statistics**.  
+- Supported **experimental manipulation** of data relationships to observe model robustness and sensitivity.  
 
-**Tools:** `Python`, `TensorFlow`, `scikit-learn`, `Pandas`, `Matplotlib`
+**Tools:** `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `PlantUML`, `Google Colab`
 
 [Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
 
 ---
+
 
 ## Rock–Paper–Scissors Image Classification – Dicoding (2022)
 
