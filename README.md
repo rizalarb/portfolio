@@ -54,42 +54,34 @@ Automated summary generation and streamlined weekly review.
 
 ## Balance Sheet and Profit-Loss Dashboard – PT Wira Cipta Perkasa (2025)
 
-Developed dashboards to provide a unified view of financial health, allowing real-time comparison between planned vs actual performance.
+Created an **Excel-based dashboard** to automate Balance Sheet and Profit & Loss reporting, aggregate COA, and surface five bank-aligned financial ratios for monthly monitoring.
 
-**Tools:** `Power BI`, `Excel`, `VBA`  
-**Impact:** Accelerated monthly reporting and reduced manual processing time by 50%.
-
-[Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
-
----
-
-## Internship Projects – PT Japfa Comfeed Indonesia (2024)
-
-Developed analytical and visual tools to support **cost control**, **procurement optimization**, and **product communication** for multiple departments in the Sulawesi region.  
-
-[![View Repository](https://img.shields.io/badge/View-All_Projects-blue)](https://github.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit)
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](https://github.com/rizalarb/Balance-Sheet-and-Profit-Loss-Dashboard)
 
 <table>
 <tr>
-<td align="center"><img src="https://github.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/blob/master/Dashboard%20Operational%20Vehicle%20Costs.png" width="260"/><br><sub>Operational Cost Dashboard</sub></td>
-<td align="center"><img src="https://github.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/blob/master/Economic%20Order%20Quantity%20(EOQ)%20Analysis%20for%20Poultry%20Breeding%20Procurement.png" width="260"/><br><sub>EOQ Analysis Report</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Internship-Projects-at-PT-Japfa-Comfeed-Indonesia-Makassar-Unit/master/Breeding%20Products%20Poster.jpg" width="260"/><br><sub>Product Infographic</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Balance-Sheet-and-Profit-Loss-Dashboard/master/Balance.png" width="260"/><br><sub>Balance Sheet (COA aggregation)</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Balance-Sheet-and-Profit-Loss-Dashboard/master/Profit%20And%20Loss.png" width="260"/><br><sub>Profit & Loss (period comparatives)</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Balance-Sheet-and-Profit-Loss-Dashboard/master/Ratio%20And%20EBITDA.png" width="260"/><br><sub>Ratio Dashboard (EBITDA & key ratios)</sub></td>
 </tr>
 </table>
 
-**Role / Tools:** Data Analyst Intern — `Excel`, `Adobe Photoshop`  
-**Impact:** Enhanced cost visibility, optimized procurement planning, and improved product communication.
+**Role / Tools:** Automation & Reporting Analyst — `Excel`, `Power Query`  
+**Impact:** Simplified reporting and monitoring; improved visibility of financial position and key ratios.
 
-<details open>
+<details>
 <summary>Read more</summary>
 
-- **Operational Cost Dashboard:** Consolidated 12-unit vehicle expense data, automated KPIs (cost/km, fuel variance).  
-- **EOQ Analysis:** Modeled optimal order quantities and identified cost-saving potentials for procurement.  
-- **Product Infographics:** Visualized complex technical data into clear external marketing materials.
+- Automates ETL of GL exports and sub-ledgers via Power Query.  
+- Maps and normalizes COA for multi-level aggregation (GL → subgroup → report line).  
+- Produces monthly/YTD Balance Sheet, P&L, and five bank-aligned ratios (performance, solvency, liquidity, profitability, efficiency).  
+- Includes validation checks, reconciliation rows, and a short user guide for handover.  
+- Workbook (raw .xlsx) available for download in the repository.
 
 </details>
 
 [Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
+
 
 ---
 
@@ -124,14 +116,26 @@ Developed a **dynamic PLS-SEM model simulator** for automating the generation, v
 
 ## Rock–Paper–Scissors Image Classification – Dicoding (2022)
 
-A computer vision project for recognizing hand gestures using CNN architecture.
+Developed a **Convolutional Neural Network (CNN)** to automatically classify hand gestures (rock, paper, scissors) from image input — part of **Dicoding’s Machine Learning for Beginners** program, focusing on **computer vision fundamentals** and reproducible model testing in the cloud.
 
-**Key Achievements:**
-- Designed a custom CNN with 3 convolutional layers.  
-- Reached 95% accuracy on validation data.  
-- Trained model with TensorFlow and Keras.
+[![View Repository](https://img.shields.io/badge/View-Project-blue)](https://github.com/rizalarb/Rock-Paper-Scissors-Image-Classification)
 
-**Tools:** `Python`, `TensorFlow`, `Keras`, `NumPy`
+<table>
+<tr>
+<td align="center"><img src="https://github.com/rizalarb/Rock-Paper-Scissors-Image-Classification/blob/master/CNN%20Layers.png" width="260"/><br><sub>CNN Layer Architecture (feature extraction)</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/Rock-Paper-Scissors-Image-Classification/blob/master/Training%20Model%20Output.png" width="260"/><br><sub>Training Process & Validation Metrics</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/Rock-Paper-Scissors-Image-Classification/blob/master/Output%20Prediction%20Tes.png" width="260"/><br><sub>Prediction Example (real-time test)</sub></td>
+</tr>
+</table>
+
+**Highlights:**
+- Implemented a **multi-layer CNN (5 convolutional blocks)** optimized for the RPS dataset.  
+- Applied **image augmentation** to improve generalization and robustness.  
+- Trained and evaluated in **Google Colab**, achieving **~95% validation accuracy** within 12 epochs.  
+- Added a simple **real-time inference flow** for user-uploaded images to demonstrate practical use.  
+- Clean, reproducible Colab notebook with end-to-end pipeline: data download → augmentation → training → prediction.
+
+**Tools:** `Python`, `TensorFlow / Keras`, `NumPy`, `Matplotlib`, `Google Colab`
 
 [Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
 
