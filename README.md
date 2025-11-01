@@ -112,7 +112,28 @@ Developed a **dynamic PLS-SEM model simulator** for automating the generation, v
 [Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
 
 ---
+## Multimodal Deep Learning for Hoax Detection – Final Project (2024)
 
+Developed a **deep learning system** to automatically detect **hoax news** by combining text and image data, supporting **Mafindo’s (Indonesian Anti-Slander Society)** anti-disinformation initiative.
+
+[![View Repository](https://img.shields.io/badge/View-Project-blue)](https://github.com/rizalarb/Application-Multimodel-Deep-Learning-Detecting-Hoax-News-Turnbackhoax.id-CNN)
+
+<img src="https://github.com/rizalarb/Application-Multimodel-Deep-Learning-Detecting-Hoax-News-Turnbackhoax.id-CNN/blob/master/Cover%20PA%20English.jpg" width="30%"> 
+<img src="https://github.com/rizalarb/Application-Multimodel-Deep-Learning-Detecting-Hoax-News-Turnbackhoax.id-CNN/blob/master/Model%20Architecture.jpg" width="30%"> 
+<img src="https://github.com/rizalarb/Application-Multimodel-Deep-Learning-Detecting-Hoax-News-Turnbackhoax.id-CNN/blob/master/Result%20Visualization.jpg" width="30%">
+
+**Highlights:**
+- Built a **multimodal CNN** combining text-based (1D) and image-based (2D) architectures.  
+- Processed **text with Word2Vec** and **images with CNN feature extraction**.  
+- Trained on the **Turnbackhoax.id dataset** (3,103 train / 775 test samples).  
+- Achieved **99.35% accuracy** and **99.81% AUC**, outperforming unimodal baselines.  
+- Provided a scalable solution for **AI-assisted hoax verification** to improve public information trust.
+
+**Tools:** `Python`, `TensorFlow`, `scikit-learn`, `Pandas`, `Matplotlib`
+
+[Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
+
+---
 
 ## Rock–Paper–Scissors Image Classification – Dicoding (2022)
 
