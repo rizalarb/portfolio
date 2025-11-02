@@ -12,13 +12,12 @@ Here you’ll find a curated selection of data projects, dashboards, and analyse
 
 1. [Finance Monitoring & Control Dashboard – PT Wira Cipta Perkasa (2025)](#finance-monitoring--control-dashboard--pt-wira-cipta-perkasa-2025)  
 2. [Balance Sheet and Profit-Loss Dashboard – PT Wira Cipta Perkasa (2025)](#balance-sheet-and-profit-loss-dashboard--pt-wira-cipta-perkasa-2025)  
-3. [Internship Projects – PT Japfa Comfeed Indonesia (2024)](#internship-projects--pt-japfa-comfeed-indonesia-2024)    
+3. [PLS-SEM Model Simulator – Synthetic SEM Generator (2025)](#pls-sem-model-simulator--synthetic-sem-generator-2025)  
 4. [Multimodal Deep Learning for Hoax Detection – Final Project (2024)](#multimodal-deep-learning-for-hoax-detection--final-project-2024)  
-5. [Rock–Paper–Scissors Image Classification – Dicoding (2022)](#rockpaper--scissors-image-classification--dicoding-2022)  
+5. [Rock–Paper–Scissors Image Classification – Dicoding (2022)](#rockpaperscissors-image-classification--dicoding-2022)  
 6. [Coming Soon Projects](#coming-soon-projects)
 
 </details>
-
 ---
 
 ## Finance Monitoring & Control Dashboard – PT Wira Cipta Perkasa (2025)
