@@ -13,9 +13,10 @@ Here you’ll find a curated selection of data projects, dashboards, and analyse
 1. [Finance Monitoring & Control Dashboard – PT Wira Cipta Perkasa (2025)](#finance-monitoring--control-dashboard--pt-wira-cipta-perkasa-2025)  
 2. [Balance Sheet and Profit-Loss Dashboard – PT Wira Cipta Perkasa (2025)](#balance-sheet-and-profit-loss-dashboard--pt-wira-cipta-perkasa-2025)  
 3. [PLS-SEM Model Simulator – Synthetic SEM Generator (2025)](#pls-sem-model-simulator--synthetic-sem-generator-2025)  
-4. [Multimodal Deep Learning for Hoax Detection – Final Project (2024)](#multimodal-deep-learning-for-hoax-detection--final-project-2024)  
-5. [Rock–Paper–Scissors Image Classification – Dicoding (2022)](#rockpaperscissors-image-classification--dicoding-2022)  
-6. [Coming Soon Projects](#coming-soon-projects)
+4. [Multimodal Deep Learning for Hoax Detection – Final Project (2024)](#multimodal-deep-learning-for-hoax-detection--final-project-2024)
+5. [Integrated Web Scraping and Data Analysis Pipeline – Tokopedia and TurnBackHoax.id (2023)](#integrated-web-scraping-and-data-analysis-pipeline--tokopedia-and-turnbackhoaxid-2023)
+7. [Rock–Paper–Scissors Image Classification – Dicoding (2022)](#rockpaperscissors-image-classification--dicoding-2022)  
+8. [Coming Soon Projects](#coming-soon-projects)
 
 </details>
 ---
@@ -133,7 +134,92 @@ Developed a **deep learning system** to automatically detect **hoax news** by co
 [Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
 
 ---
+## Integrated Web Scraping and Data Analysis Pipeline – Tokopedia & TurnBackHoax.id (2023)
 
+Developed an automated **dual-source web scraping and data integration pipeline** combining **GraphQL API extraction** (Tokopedia) and **pseudo REST API HTML parsing** (TurnBackHoax.id).  
+The unified dataset supports **text mining, misinformation detection (NLP)**, and **e-commerce trend analysis**.
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Dual-Source-WebScraping-FactCheck-Builder/main/assets/tokopedia-dashboard.png" width="260"/><br><sub><b>Tokopedia Product Data</b><br>Automated product collection via GraphQL API</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Dual-Source-WebScraping-FactCheck-Builder/main/assets/turnbackhoax-scraper.png" width="260"/><br><sub><b>TurnBackHoax Dataset</b><br>Structured text extraction via pseudo REST scraping</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Dual-Source-WebScraping-FactCheck-Builder/main/assets/eda-insights.png" width="260"/><br><sub><b>Exploratory Data Insights</b><br>Trends, topics, and correlation overview</sub></td>
+</tr>
+</table>
+
+---
+
+### 🔍 Highlights
+
+- **GraphQL API Integration (Tokopedia)**  
+  Built a dynamic scraper that sends GraphQL payloads to Tokopedia’s `https://gql.tokopedia.com/graphql/SearchProductQueryV4`.  
+  Extracted detailed product attributes such as **name, price, rating, shop, and city** through a single GraphQL endpoint.
+
+- **Pseudo REST API Scraping (TurnBackHoax.id)**  
+  Implemented an **HTML parser using BeautifulSoup** to simulate REST-style HTTP GET requests,  
+  extracting structured data fields — **title, date, category, and fact-check results** — from TurnBackHoax.id articles.
+
+- **Data Integration**  
+  Unified both sources into a structured **Pandas DataFrame**, enabling direct use for **NLP preprocessing**, **EDA**, or **BI dashboards**.
+
+- **Automated Export & Visualization**  
+  Implemented an automated `.xlsx` export pipeline for live storage and used **Matplotlib** to visualize price clustering and misinformation trends.
+
+- **Scalability**  
+  Provided modular scraping functions extendable to other **Indonesian e-commerce** or **fact-checking websites**.
+
+
+### 🧠 Tools & Technologies
+`Python`, `Requests`, `BeautifulSoup`, `Pandas`, `JSON`, `LXML`, `GraphQL`, `Excel`, `Matplotlib`
+
+
+### 🧾 Example Outputs
+
+#### Tokopedia (GraphQL API)
+| Product | Price | Rating | Shop | City |
+|----------|--------|---------|------|------|
+| Samsung Galaxy A15 | 2,350,000 | 4.8 | Samsung Official | Jakarta |
+| Infinix Note 30 | 2,099,000 | 4.7 | GadgetZone | Bandung |
+
+#### TurnBackHoax.id (Pseudo REST API Scraping)
+| Title | Category | Date | Summary |
+|--------|-----------|------|----------|
+| [SALAH] Foto “ORANG CHINA berseragam BRIMOB” | Hoax | July 2020 | Clarified and debunked by fact-check team |
+| [BENAR] Info resmi vaksinasi COVID-19 | Fact | May 2021 | Verified through government data |
+
+
+
+### ⚙️ Methodological Workflow
+
+1️⃣ **GraphQL API Request (Tokopedia)**  
+→ Define search parameters  
+→ Send GraphQL payload (`query`, `variables`)  
+→ Extract JSON response fields  
+
+2️⃣ **Pseudo REST HTML Parsing (TurnBackHoax.id)**  
+→ Crawl article pages with `requests.get()`  
+→ Parse HTML using `BeautifulSoup`  
+→ Extract title, date, category, and text  
+
+3️⃣ **Data Cleaning & Integration**  
+→ Normalize nested JSON and HTML tables  
+→ Merge into unified dataset  
+
+4️⃣ **Export & Visualization**  
+→ Save to `.xlsx`  
+→ Analyze price distributions and misinformation categories using Pandas + Matplotlib  
+
+
+### 🚀 Potential Applications
+
+- **Misinformation Detection** — Train NLP models (e.g., BERT) for hoax/non-hoax classification.  
+- **Market Intelligence** — Correlate product pricing with topic trends.  
+- **Public Awareness Research** — Analyze misinformation influence on consumer behavior.
+
+
+[Back to Top](#ahmad-rizal-bayhaqi--data-analyst--visualization-specialist)
+
+---
 ## Rock–Paper–Scissors Image Classification – Dicoding (2022)
 
 Developed a **Convolutional Neural Network (CNN)** to automatically classify hand gestures (rock, paper, scissors) from image input — part of **Dicoding’s Machine Learning for Beginners** program, focusing on **computer vision fundamentals** and reproducible model testing in the cloud.
