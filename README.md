@@ -89,7 +89,7 @@ Created an **Excel-based dashboard** to automate Balance Sheet and Profit & Loss
 
 Developed a **dynamic PLS-SEM model simulator** for automating the generation, visualization, and validation of structural equation models — designed to support **researchers and analysts** in testing causal relationships through **controlled parameter experiments**.
 
-[![View Repository](https://img.shields.io/badge/View-Project-blue)](github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization)
+[![View Repository](https://img.shields.io/badge/View-Project-blue)](https://github.com/rizalarb/PLS-SEM-Model-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization)
 
 <table>
 <tr>
